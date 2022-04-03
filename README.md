@@ -1,7 +1,7 @@
 ## What does this do?
 This package calculates the roots to the electrostatic dispersion relation given by 
 
-<img src="https://render.githubusercontent.com/render/math?math=1+\frac{\omega_p^2}{k^2} \int du \frac{d_u g(u)}{\omega/k - u} = 0">
+<img src="https://render.githubusercontent.com/render/math?math={\color{white}1+\frac{\omega_p^2}{k^2} \int du \frac{d_u g(u)}{\omega/k - u} = 0}#gh-dark-mode-only">
 
 where <img src="https://render.githubusercontent.com/render/math?math=g(u)"> is the 1D distribution function, here assumed
 to be a Maxwell-Boltzmann.
